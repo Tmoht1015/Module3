@@ -16,3 +16,5 @@ Using f-strings & /n function
 + https://www.idtech.com/blog/what-is-n-in-python#:~:text=In%20Python%2C%20%5Cn%20is%20a,in%20print%20statements%20or%20strings.
 + https://www.geeksforgeeks.org/formatted-string-literals-f-strings-python/
 + https://peps.python.org/pep-0498/
+
+*Also this is something I can not screenshot directly but I did recieve some over the shoulder guidance from my sister and brother-in-law who mainly helped me with my variable creation*
